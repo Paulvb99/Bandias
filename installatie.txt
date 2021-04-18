@@ -1,0 +1,24 @@
+Bedankt voor de opra-crime source te downloaden.
+Hieronder staat wat je moet doen:
+
+
+- Upload de content van de map bestanden naar je webhosting account.
+- Maak een database aan en bewerk connection.php en /v3/connection.php
+- Upload opra.sql naar je database toe door middel van phpmyadmin of usermin of dergelijke.
+- Log in op je spel door naar je site toe te gaan, inlog gegevens zijn admin en wachtwoord gionet112
+- Veel plezier met je spel!
+
+
+WAARSCHUWING:
+
+De casino games en de layout/afbeeldingen zijn van OneTwoGaming en mogen inpricipe niet worden gebruikt tenzij je herscript!
+
+
+Notitie:
+
+Het admin paneel is gemaakt door Rapifia, de beste hosting die er is!
+Het bestand game_info.php moet blijven zoals hij is, je mag hem uit het menu verwijderen maar hij MOET op je webhosting blijven.
+Indien dit niet het geval is gaan er maatregelen volgen en je source wordt illegaal verklaart.
+
+
+
