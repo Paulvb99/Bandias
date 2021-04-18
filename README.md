@@ -1,4 +1,4 @@
-# Bandias
+# Banditi
 
 Disclaimer: layout/naam moeten veranderd worden i.v.m. copy rights.
 
