@@ -1,0 +1,146 @@
+/* Default skin */
+.dhtmlxSlider { 	
+  	position:relative;
+	overflow:hidden;
+  	height:14px;
+	left:10px; 
+}
+
+.dhtmlxSlider .selector {
+	position:absolute;
+	overflow:hidden;
+  	height:100%;
+	width:31px;
+	left:5px;
+}
+
+.dhtmlxSlider .leftSide {
+  	position:absolute;
+  	left:0px;
+  	top:0px;
+  	width:3px;
+  	height:100%;
+}
+
+.dhtmlxSlider .leftZone {
+	position:absolute;
+	top:0px;
+	left:3px;
+  	height:100%;
+}
+
+.dhtmlxSlider .rightSide {
+  	position:absolute;
+  	right:0px;
+  	top:0px;
+  	width:3px;
+  	height:100%;
+}
+
+.dhtmlxSlider .rightZone {
+  position:absolute;
+	left:3px;
+	top:0px;
+  height:100%;
+}
+/* End default skin */
+
+/* Callshop skin */
+.dhtmlxSlider_callshop {
+  position:relative;
+	overflow:hidden;
+  	height:17px;
+	left:0px; 
+	cursor:pointer;
+}
+
+.dhtmlxSlider_callshop .selector {
+
+	position:absolute;
+	overflow:hidden;
+  	height:14px;
+	width:14px;
+	left:0px;
+}
+
+.dhtmlxSlider_callshop .leftSide {
+  	position:absolute;
+  	left:0px;
+  	top:0px;
+  	width:3px;
+  	height:100%;
+}
+
+.dhtmlxSlider_callshop .leftZone {
+	position:absolute;
+	top:0px;
+	left:0px;
+  height:100%;
+
+}
+
+.dhtmlxSlider_callshop .rightSide {
+  	position:absolute;
+  	right:0px;
+  	top:0px;
+  	width:4px;
+  	height:100%;
+}
+
+.dhtmlxSlider_callshop .rightZone {
+	position:absolute;
+	left:3px;
+	top:0px;
+  height:100%;
+}
+/* End zipper skin */
+
+/* Money skin */
+.dhtmlxSlider_money {
+  	position:relative;
+	overflow:hidden;
+  	height:17px;
+	left:0px; 
+	cursor:pointer;
+}
+
+.dhtmlxSlider_money .selector {
+
+	position:absolute;
+	overflow:hidden;
+  	height:18px;
+	width:17px;
+	left:0px;
+}
+
+.dhtmlxSlider_money .leftSide {
+  	position:absolute;
+  	left:0px;
+  	top:0px;
+  	width:3px;
+  	height:100%;
+}
+
+.dhtmlxSlider_money .leftZone {
+	position:absolute;
+	top:0px;
+	left:0px;
+  height:100%;
+
+}
+
+.dhtmlxSlider_money .rightSide {
+  	position:absolute;
+  	right:0px;
+  	top:0px;
+  	width:4px;
+  	height:100%;
+}
+
+.dhtmlxSlider_money .rightZone {
+	position:absolute;
+	left:3px;
+	top:0px;
+  height:100%;
+}
+/* End zipper skin */

@@ -1,0 +1,57 @@
+body			{ margin: 0px; background: transparent; color: #fbcc00; font-family: "arial"; font-size: 8pt; cursor: default; }
+
+a.top:link		{ letter-spacing: 0px; color: #fbcc00; font-family: "arial"; font-size: 8pt; text-decoration: none; }
+a.top:visited		{ letter-spacing: 0px; color: #fbcc00; font-family: "arial"; font-size: 8pt; text-decoration: none; }
+a.top:active		{ letter-spacing: 0px; color: #fbcc00; font-family: "arial"; font-size: 8pt; text-decoration: none; }
+a.top:hover		{ letter-spacing: 0px; color: #bc9600; font-family: "arial"; font-size: 8pt; text-decoration: none; }
+
+a.login:link		{ color: #000000; font-family: "arial"; font-size: 8pt; text-decoration: none; }
+a.login:visited		{ color: #000000; font-family: "arial"; font-size: 8pt; text-decoration: none; }
+a.login:active		{ color: #000000; font-family: "arial"; font-size: 8pt; text-decoration: none; }
+a.login:hover		{ color: #333333; font-family: "arial"; font-size: 8pt; text-decoration: none; }
+
+a:link			{ color: #FFFFFF; font-family: "arial"; font-size: 8pt; text-decoration: none; }
+a:visited		{ color: #FFFFFF; font-family: "arial"; font-size: 8pt; text-decoration: none; }
+a:active		{ color: #FFFFFF; font-family: "arial"; font-size: 8pt; text-decoration: none; }
+a:hover			{ color: #ce9f45; font-family: "arial"; font-size: 8pt; text-decoration: none; }
+
+textarea		{ border: 1px solid #314428; background: #48643B; color: #000000; font-size: 8pt; }
+input			{ border: 1px solid #314428; background: #48643B; color: #000000; font-size: 8pt; }
+input.2			{ border: 1px solid #314428; background: #48643B; color: #000000; cursor: hand; font-size: 8pt; }
+input.clock		{ border: 0px solid #000000; background: transparent; color: #FFFFFF; font-family: "arial"; font-size: 8pt; width: 100; height: 12; }
+input.text		{ border: 1px solid #314428; background: #48643B; color: #000000; font-size: 8pt; }
+input.submit		{ border: 1px solid #314428; background: #48643B; color: #000000; cursor: hand; font-size: 8pt; }
+input.image		{ border: 0px solid #000000; background: transparent; cursor: hand; }
+input.transparent	{ color: #fbcc00; border: none; background: none; }
+input.normalRadio	{ border: none; background: transparent; }
+select			{ background: #1a1919; color: #fbcc00; font-size: 8pt; font-family: "arial"; }
+
+img			{ border: 0px; }
+
+table			{ color: #FFFFFF; font-family: "arial"; font-size: 8pt; }
+td.subTitle		{ text-decoration: none; padding-left: 5px; border: 1px solid #252220; height: 21; background: url(../subtitle.png); color: #dfb833; font-family: "arial"; font-size: 8pt; }
+td.mainTxt		{ border: 1px solid #151414; background: #1a1919; color: #FFFFFF; font-family: "arial"; font-size: 8pt; padding-left: 5px; }
+td.plaatje		{ border: 1px solid #151414; background: #1a1919; }
+td.loginlink		{ padding-left: 21; background: transparent; border: none; color: #000000; font-family: "arial"; font-size: 8pt; }
+td.menulink		{ padding-left: 21; background: url(../menu_linkbg.png); border: none; font-family: "arial"; font-size: 8pt; }
+td.menulink2		{ height: 16; padding-left: 21; background: url(../menu_linkbg2.png); border: none; font-family: "arial"; font-size: 8pt; }
+td.menulink3		{ height: 16; padding-left: 21; background: url(../menu_linkbg3.png); border: none; font-family: "arial"; font-size: 8pt; }
+td.mapvak		{ border: 1px dashed #000000; background: transparent; cursor: hand; }
+
+body			{ scrollbar-base-color: #888888;
+			  scrollbar-3dlight-color: #777777;
+			  scrollbar-arrow-color: #666666;
+			  scrollbar-darkshadow-color: #555555;
+			  scrollbar-face-color: #444444;
+			  scrollbar-highlight-color: #333333;
+			  scrollbar-shadow-color: #222222;
+			  scrollbar-track-color: #111111; }
+			  
+			  
+
+body			{ 
+color: #CCCCCC; 
+background: #0c0c0c;
+font-family: verdana; 
+font-size: 8pt; 
+cursor: default;
